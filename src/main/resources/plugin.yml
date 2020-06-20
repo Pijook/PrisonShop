@@ -1,0 +1,11 @@
+name: PrisonShop
+author: Pijok
+version: 1.0
+main: pl.Pijok.PrisonShop.Main
+depend:
+  - Multiverse-Core
+commands:
+  pshop:
+    usage: /pshop
+  shop:
+    usage: /shop
